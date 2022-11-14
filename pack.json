@@ -1,0 +1,10 @@
+{
+  "name": "StarDeck Valley",
+  "description": "sounds from stardew valley.",
+  "author": "GitHubUsername",
+  "version": "v0.1",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
